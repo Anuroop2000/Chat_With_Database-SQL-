@@ -1,0 +1,29 @@
+Question:
+"What is the name of the venue located in 'Los Angeles, CA' that has hosted concerts with ticket prices above $150?"
+
+Question:
+"List all the customers who purchased tickets for concerts performed by artists in the 'R&B' genre and have a date of birth before '1990-01-01'."
+
+Question:
+"Which concert has the highest number of available tickets and features an artist whose name contains 'a'?"
+
+Question:
+"What are the names and email addresses of customers who bought tickets for concerts on '2024-08-20' and paid using 'Credit Card'?"
+
+Question:
+"Identify the artist who has the most concerts scheduled in '2024', along with the venues and total tickets sold."
+
+Question:
+"Can you provide the details of all concerts that have tickets remaining, where the concert date is after '2024-07-01' and the artist's name starts with 'B'?"
+
+Question:
+"What is the total number of tickets sold for concerts held in 'Tokyo, Japan' by artists who perform 'Hip Hop' music?"
+
+Question:
+"Find the names of customers who have purchased tickets for concerts that were held in venues with a capacity greater than 30,000."
+
+Question:
+"What are the ticket prices for concerts featuring artists whose names end with 'e'?"
+
+Question:
+"List the artists and the corresponding concert dates for any concert scheduled in 'Germany' in 'August 2024'."
